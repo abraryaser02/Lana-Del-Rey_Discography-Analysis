@@ -1,1 +1,3 @@
 # Lana-Del-Rey_Discography-Analysis
+
+Being a huge fan of Grammy-nominated alternative singer Lana Del Rey since middle school, I wanted to analyze her chart statistics and how they align with her album reviews, looking for any positive relationships between reviews and chart standings. For the chart data, I used her Billboard Hot 100 chart standings (https://www.billboard.com/artist/lana-del-rey/chart-history/hsi/), and for her album reviews, I used a Kaggle dataset named "Contemporary album ratings and reviews" (https://www.kaggle.com/datasets/kauvinlucas/30000-albums-aggregated-review-ratings). I scraped the billboard website and merged the information with the existing dataset of Lana Del Rey's album reviews.
